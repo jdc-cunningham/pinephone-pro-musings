@@ -19,3 +19,9 @@ Listen to this [sound](https://youtu.be/oUS52Lfekdo?t=307).
 <img src="./responsive-design.JPG"/>
 
 Or just screen scaling I guess
+
+### backgrounds
+
+<img src="./cowboy-bebop-bg.JPG"/>
+
+this image is not mine

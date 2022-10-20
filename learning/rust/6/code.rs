@@ -4,17 +4,17 @@ struct Sheep { naked: bool, name: &'static str } // this is weird the '
 
 trait Animal {
   fn new(name: &'static str) -> Self;
-  
-  fn name(&self) -> &'static str;
-  fn noise($self) -> &'static str;
 
-  fn talk($self) {
+  fn name(&self) -> &'static str;
+  fn noise(&self) -> &'static str;
+
+  fn talk(&self) {
     println!("{} says {}", self.name(), self.noise()); // interesting arg passing
   }
 }
 
 impl Sheep {
-  fn is_naked(&self -> bool {
+  fn is_naked(&self) -> bool {
     self.naked // no return word?
   }
 
@@ -33,7 +33,7 @@ impl Animal for Sheep {
   fn new(name: &'static str) -> Sheep {
     Sheep { name: name, naked: false }
   }
-  
+
   fn name(&self) -> &'static str { // what's going on here
     self.name
   }
@@ -47,7 +47,7 @@ impl Animal for Sheep {
   }
 
   fn talk(&self) {
-    println!("{} pause briefly... {}", self.name, self.noise());
+    println!("{} pauses briefly... {}", self.name, self.noise());
   }
 }
 
