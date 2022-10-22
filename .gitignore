@@ -1,0 +1,9 @@
+# from github
+# files
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# folders
+debug/
+target/

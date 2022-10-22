@@ -17,3 +17,16 @@ cargo add gtk4 --rename gtk --features v4_6
 ```
 
 I'll need full battery, I'll try it after pushing lol
+
+No it was fast interesting
+
+Oh damn... `cargo run` is building something it might die now
+
+13% battery let's go... 92/116 gtk4-macros come on
+
+wth... what is this installation, there's actually code to be written still in the hello world section
+
+oh no... stuck on 106/116 glib
+
+I'm going to unplug it from dock and charge/let it finish
+
