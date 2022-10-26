@@ -15,3 +15,9 @@ EDA - electronic design automation
 TAP - test access port
 
 DFU - direct firmware update
+
+HDL - hardware description language (VHDL, Verilog)
+
+RTL - register transfer level
+
+HLS - high-level synthesis
