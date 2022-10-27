@@ -25,3 +25,18 @@ Or just screen scaling I guess
 <img src="./cowboy-bebop-bg.JPG"/>
 
 this image is not mine
+
+### working
+- AUX out (headphones)
+
+### iffy
+
+- bluetooth binding (Mobian/Phosh to speaker)
+
+
+### misc
+
+[run chromium](https://wiki.mobian-project.org/doku.php?id=chromium)
+
+`flatpak run org.chromium.Chromium --enable-features=UseOzonePlatform --ozone-platform=wayland`
+
