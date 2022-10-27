@@ -4,7 +4,7 @@ Trying to use PinePhone Pro as a dev environment
 
 ### The setup
 
-<img src="./setup.JPG" width="500"/>
+<img src="./setup2.JPG" width="800"/>
 
 Keyboard is EPOMAKER EP84
 
